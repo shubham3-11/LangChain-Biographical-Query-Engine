@@ -41,3 +41,17 @@ This is a dual-LLM Streamlit application that showcases advanced prompt chaining
 git clone https://github.com/your-username/LangChain-Biographical-Query-Engine
 .git
 cd LangChain-Biographical-Query-Engine
+
+###2. Install dependencies
+
+pip install -r requirements.txt
+
+###3. Add your environment variables
+Create a .env file:
+
+OPENAI_API_KEY=your_openai_key
+LANGCHAIN_API_KEY=your_langchain_key
+
+###4. Run the app
+
+streamlit run app.py
