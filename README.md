@@ -37,7 +37,7 @@ This is a dual-LLM Streamlit application that showcases advanced prompt chaining
 
 1. Clone the repo
 
-git clone https://github.com/your-username/LangChain-Biographical-Query-Engine.git
+git clone https://github.com/shubham3-11/LangChain-Biographical-Query-Engine.git
 cd LangChain-Biographical-Query-Engine
 
 2. Install dependencies
