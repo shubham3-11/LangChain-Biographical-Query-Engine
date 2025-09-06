@@ -1,6 +1,8 @@
 # LangChain-Biographical-Query-Engine
 This is a dual-LLM Streamlit application that showcases advanced prompt chaining, memory management, and large language model integration using OpenAI's GPT-3.5 and LLAMA2 via LangChain. The app allows users to explore biographical information about celebrities and discover historical context using multi-step sequential reasoning, and also chat dynamically with a helpful LLAMA2 assistant.
 
+Demonstration Video: https://www.youtube.com/watch?v=xnStE21Weg4&feature=youtu.be
+
 ---
 
 ## Features
